@@ -1,0 +1,1236 @@
+[
+  {
+    "id": "k:ア",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ア",
+    "romaji": "a",
+    "accept": [
+      "a"
+    ],
+    "mnemonic": "An axe chopping down a stake: \"Ah!\""
+  },
+  {
+    "id": "k:イ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "イ",
+    "romaji": "i",
+    "accept": [
+      "i"
+    ],
+    "mnemonic": "A leaning easel on one leg: ee!"
+  },
+  {
+    "id": "k:ウ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ウ",
+    "romaji": "u",
+    "accept": [
+      "u"
+    ],
+    "mnemonic": "A gift box with a bow on top: ooh! u."
+  },
+  {
+    "id": "k:エ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "エ",
+    "romaji": "e",
+    "accept": [
+      "e"
+    ],
+    "mnemonic": "A steel I-beam for an elevator shaft: e."
+  },
+  {
+    "id": "k:オ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "オ",
+    "romaji": "o",
+    "accept": [
+      "o"
+    ],
+    "mnemonic": "A post with flung-out arms: an opera singer belting \"Oh!\""
+  },
+  {
+    "id": "k:カ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "カ",
+    "romaji": "ka",
+    "accept": [
+      "ka"
+    ],
+    "mnemonic": "か without its dash: a lone karate arm, ka."
+  },
+  {
+    "id": "k:キ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "キ",
+    "romaji": "ki",
+    "accept": [
+      "ki"
+    ],
+    "mnemonic": "Two crossbars on a slanted stick: the frame of a kite, ki."
+  },
+  {
+    "id": "k:ク",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ク",
+    "romaji": "ku",
+    "accept": [
+      "ku"
+    ],
+    "mnemonic": "A sharp hook, like a cook's ladle handle: ku."
+  },
+  {
+    "id": "k:ケ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ケ",
+    "romaji": "ke",
+    "accept": [
+      "ke"
+    ],
+    "mnemonic": "A capital K leaning on a walking stick: ke."
+  },
+  {
+    "id": "k:コ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "コ",
+    "romaji": "ko",
+    "accept": [
+      "ko"
+    ],
+    "mnemonic": "The corner of a box, open on one side: a cozy corner, ko."
+  },
+  {
+    "id": "k:サ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "サ",
+    "romaji": "sa",
+    "accept": [
+      "sa"
+    ],
+    "mnemonic": "A saddle resting on two posts, one with a long tail: sa."
+  },
+  {
+    "id": "k:シ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "シ",
+    "romaji": "shi",
+    "accept": [
+      "shi",
+      "si"
+    ],
+    "mnemonic": "Two eyes stacked on the left, smile sweeping UP: she smiles, shi."
+  },
+  {
+    "id": "k:ス",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ス",
+    "romaji": "su",
+    "accept": [
+      "su"
+    ],
+    "mnemonic": "A stick figure sliding into a split: swoosh, su."
+  },
+  {
+    "id": "k:セ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "セ",
+    "romaji": "se",
+    "accept": [
+      "se"
+    ],
+    "mnemonic": "A sail hooked onto a crooked mast: se for sail."
+  },
+  {
+    "id": "k:ソ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ソ",
+    "romaji": "so",
+    "accept": [
+      "so"
+    ],
+    "mnemonic": "One stitch and a long needle sweeping DOWN from the top: sew, so."
+  },
+  {
+    "id": "k:タ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "タ",
+    "romaji": "ta",
+    "accept": [
+      "ta"
+    ],
+    "mnemonic": "Like ク with a slash inside: a price tag hanging, ta."
+  },
+  {
+    "id": "k:チ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "チ",
+    "romaji": "chi",
+    "accept": [
+      "chi",
+      "ti"
+    ],
+    "mnemonic": "A flat cap on a T with a curved stem: a cheeky chair, chi."
+  },
+  {
+    "id": "k:ツ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ツ",
+    "romaji": "tsu",
+    "accept": [
+      "tsu",
+      "tu"
+    ],
+    "mnemonic": "Two drops side by side on top, wave falling DOWN: tsunami, tsu."
+  },
+  {
+    "id": "k:テ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "テ",
+    "romaji": "te",
+    "accept": [
+      "te"
+    ],
+    "mnemonic": "A telephone pole with a short top bar: te."
+  },
+  {
+    "id": "k:ト",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ト",
+    "romaji": "to",
+    "accept": [
+      "to"
+    ],
+    "mnemonic": "A stick with one twig: the first letter of トマト (tomato)! to."
+  },
+  {
+    "id": "k:ナ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ナ",
+    "romaji": "na",
+    "accept": [
+      "na"
+    ],
+    "mnemonic": "A cross with a leaning post, like a bent nail: na."
+  },
+  {
+    "id": "k:ニ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ニ",
+    "romaji": "ni",
+    "accept": [
+      "ni"
+    ],
+    "mnemonic": "Two lines, and ni means \"two\": ni!"
+  },
+  {
+    "id": "k:ヌ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ヌ",
+    "romaji": "nu",
+    "accept": [
+      "nu"
+    ],
+    "mnemonic": "A noodle bowl with chopsticks crossing over: nu."
+  },
+  {
+    "id": "k:ネ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ネ",
+    "romaji": "ne",
+    "accept": [
+      "ne"
+    ],
+    "mnemonic": "A bird's nest balanced on a pole: ne."
+  },
+  {
+    "id": "k:ノ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ノ",
+    "romaji": "no",
+    "accept": [
+      "no"
+    ],
+    "mnemonic": "Just one slash, a firm \"no!\": no."
+  },
+  {
+    "id": "k:ハ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ハ",
+    "romaji": "ha",
+    "accept": [
+      "ha"
+    ],
+    "mnemonic": "Two strokes spraying apart like a big sneeze: ha-choo! ha."
+  },
+  {
+    "id": "k:ヒ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ヒ",
+    "romaji": "hi",
+    "accept": [
+      "hi"
+    ],
+    "mnemonic": "A heel kicked out with a toe pointing right: hi."
+  },
+  {
+    "id": "k:フ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "フ",
+    "romaji": "fu",
+    "accept": [
+      "fu",
+      "hu"
+    ],
+    "mnemonic": "A curved paper fan going fu-fu: fu."
+  },
+  {
+    "id": "k:ヘ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ヘ",
+    "romaji": "he",
+    "accept": [
+      "he"
+    ],
+    "mnemonic": "Twin of hiragana へ, just pointier: a helmet's peak, he."
+  },
+  {
+    "id": "k:ホ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ホ",
+    "romaji": "ho",
+    "accept": [
+      "ho"
+    ],
+    "mnemonic": "A hoe stuck in the garden with two clods of dirt: ho."
+  },
+  {
+    "id": "k:マ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "マ",
+    "romaji": "ma",
+    "accept": [
+      "ma"
+    ],
+    "mnemonic": "A folded apron with a little tie: mama's apron, ma."
+  },
+  {
+    "id": "k:ミ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ミ",
+    "romaji": "mi",
+    "accept": [
+      "mi"
+    ],
+    "mnemonic": "Three little lines: me, me, me! mi."
+  },
+  {
+    "id": "k:ム",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ム",
+    "romaji": "mu",
+    "accept": [
+      "mu"
+    ],
+    "mnemonic": "A triangle with a tail, like a mooing cow's nose: mu."
+  },
+  {
+    "id": "k:メ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "メ",
+    "romaji": "me",
+    "accept": [
+      "me"
+    ],
+    "mnemonic": "A big X with a tick: \"mess-up\" mark, me."
+  },
+  {
+    "id": "k:モ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "モ",
+    "romaji": "mo",
+    "accept": [
+      "mo"
+    ],
+    "mnemonic": "Two bars and a hook: a mop lying on its side, mo."
+  },
+  {
+    "id": "k:ヤ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ヤ",
+    "romaji": "ya",
+    "accept": [
+      "ya"
+    ],
+    "mnemonic": "A sail leaning on a mast: a yacht, ya."
+  },
+  {
+    "id": "k:ユ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ユ",
+    "romaji": "yu",
+    "accept": [
+      "yu"
+    ],
+    "mnemonic": "A U-turn bracket sitting on a line: U, yu."
+  },
+  {
+    "id": "k:ヨ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ヨ",
+    "romaji": "yo",
+    "accept": [
+      "yo"
+    ],
+    "mnemonic": "A backwards E: yo, E, you're facing the wrong way!"
+  },
+  {
+    "id": "k:ラ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ラ",
+    "romaji": "ra",
+    "accept": [
+      "ra"
+    ],
+    "mnemonic": "A short lid over a hook: a hat rack, ra."
+  },
+  {
+    "id": "k:リ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "リ",
+    "romaji": "ri",
+    "accept": [
+      "ri"
+    ],
+    "mnemonic": "Two straight ribbon tails, the right one longer: ri."
+  },
+  {
+    "id": "k:ル",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ル",
+    "romaji": "ru",
+    "accept": [
+      "ru"
+    ],
+    "mnemonic": "Two roots, one curling up at the tip: ru for roots."
+  },
+  {
+    "id": "k:レ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "レ",
+    "romaji": "re",
+    "accept": [
+      "re"
+    ],
+    "mnemonic": "A check mark on a receipt: re."
+  },
+  {
+    "id": "k:ロ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ロ",
+    "romaji": "ro",
+    "accept": [
+      "ro"
+    ],
+    "mnemonic": "A square box: a robot's head, ro."
+  },
+  {
+    "id": "k:ワ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ワ",
+    "romaji": "wa",
+    "accept": [
+      "wa"
+    ],
+    "mnemonic": "A wide watering can spout: wa for water."
+  },
+  {
+    "id": "k:ヲ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ヲ",
+    "romaji": "wo",
+    "accept": [
+      "wo",
+      "o"
+    ],
+    "mnemonic": "Three bars on a hook, slipping away: whoa! wo (often said o)."
+  },
+  {
+    "id": "k:ン",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ン",
+    "romaji": "n",
+    "accept": [
+      "n",
+      "nn"
+    ],
+    "mnemonic": "A dot and a stroke sweeping UP from the bottom: a quiet hum, n."
+  },
+  {
+    "id": "k:ガ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ガ",
+    "romaji": "ga",
+    "accept": [
+      "ga"
+    ],
+    "mnemonic": "カ plus ゛: the garden spade digs in, ga."
+  },
+  {
+    "id": "k:ギ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ギ",
+    "romaji": "gi",
+    "accept": [
+      "gi"
+    ],
+    "mnemonic": "キ plus ゛: the kite string twangs like a guitar, gi."
+  },
+  {
+    "id": "k:グ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "グ",
+    "romaji": "gu",
+    "accept": [
+      "gu"
+    ],
+    "mnemonic": "ク plus ゛: the cook's ladle drips goo, gu."
+  },
+  {
+    "id": "k:ゲ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ゲ",
+    "romaji": "ge",
+    "accept": [
+      "ge"
+    ],
+    "mnemonic": "ケ plus ゛: K scores game point, ge."
+  },
+  {
+    "id": "k:ゴ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ゴ",
+    "romaji": "go",
+    "accept": [
+      "go"
+    ],
+    "mnemonic": "コ plus ゛: the box corner yells \"goal!\", go."
+  },
+  {
+    "id": "k:ザ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ザ",
+    "romaji": "za",
+    "accept": [
+      "za"
+    ],
+    "mnemonic": "サ plus ゛: the saddle zips up, za."
+  },
+  {
+    "id": "k:ジ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ジ",
+    "romaji": "ji",
+    "accept": [
+      "ji",
+      "zi"
+    ],
+    "mnemonic": "シ plus ゛: the smiley face jumps for joy, ji."
+  },
+  {
+    "id": "k:ズ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ズ",
+    "romaji": "zu",
+    "accept": [
+      "zu"
+    ],
+    "mnemonic": "ス plus ゛: the sliding figure zooms, zu."
+  },
+  {
+    "id": "k:ゼ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ゼ",
+    "romaji": "ze",
+    "accept": [
+      "ze"
+    ],
+    "mnemonic": "セ plus ゛: the sail hits zero wind, ze."
+  },
+  {
+    "id": "k:ゾ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ゾ",
+    "romaji": "zo",
+    "accept": [
+      "zo"
+    ],
+    "mnemonic": "ソ plus ゛: the sewing needle turns zombie, zo."
+  },
+  {
+    "id": "k:ダ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ダ",
+    "romaji": "da",
+    "accept": [
+      "da"
+    ],
+    "mnemonic": "タ plus ゛: the price tag dances, da."
+  },
+  {
+    "id": "k:ヂ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ヂ",
+    "romaji": "ji",
+    "accept": [
+      "ji",
+      "di",
+      "zi"
+    ],
+    "mnemonic": "チ plus ゛: read ji, same as ジ. Very rare in katakana."
+  },
+  {
+    "id": "k:ヅ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ヅ",
+    "romaji": "zu",
+    "accept": [
+      "zu",
+      "du"
+    ],
+    "mnemonic": "ツ plus ゛: read zu, same as ズ. Very rare in katakana."
+  },
+  {
+    "id": "k:デ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "デ",
+    "romaji": "de",
+    "accept": [
+      "de"
+    ],
+    "mnemonic": "テ plus ゛: the telephone pole gets a delivery, de."
+  },
+  {
+    "id": "k:ド",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ド",
+    "romaji": "do",
+    "accept": [
+      "do"
+    ],
+    "mnemonic": "ト plus ゛: the twig knocks on a door, do."
+  },
+  {
+    "id": "k:バ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "バ",
+    "romaji": "ba",
+    "accept": [
+      "ba"
+    ],
+    "mnemonic": "ハ plus ゛: the sneeze becomes a bark, ba!"
+  },
+  {
+    "id": "k:ビ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ビ",
+    "romaji": "bi",
+    "accept": [
+      "bi"
+    ],
+    "mnemonic": "ヒ plus ゛: the heel kicks a beach ball, bi."
+  },
+  {
+    "id": "k:ブ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ブ",
+    "romaji": "bu",
+    "accept": [
+      "bu"
+    ],
+    "mnemonic": "フ plus ゛: the paper fan blows bubbles, bu."
+  },
+  {
+    "id": "k:ベ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ベ",
+    "romaji": "be",
+    "accept": [
+      "be"
+    ],
+    "mnemonic": "ヘ plus ゛: the helmet gets a bell, be."
+  },
+  {
+    "id": "k:ボ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ボ",
+    "romaji": "bo",
+    "accept": [
+      "bo"
+    ],
+    "mnemonic": "ホ plus ゛: the hoe hits a bone, bo."
+  },
+  {
+    "id": "k:パ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "パ",
+    "romaji": "pa",
+    "accept": [
+      "pa"
+    ],
+    "mnemonic": "ハ plus a circle ゜: the sneeze pops a paper bag, pa!"
+  },
+  {
+    "id": "k:ピ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ピ",
+    "romaji": "pi",
+    "accept": [
+      "pi"
+    ],
+    "mnemonic": "ヒ plus ゜: the heel steps on a pin, pi!"
+  },
+  {
+    "id": "k:プ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "プ",
+    "romaji": "pu",
+    "accept": [
+      "pu"
+    ],
+    "mnemonic": "フ plus ゜: the fan puffs out a ring, pu."
+  },
+  {
+    "id": "k:ペ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ペ",
+    "romaji": "pe",
+    "accept": [
+      "pe"
+    ],
+    "mnemonic": "ヘ plus ゜: a pen dot on the helmet, pe."
+  },
+  {
+    "id": "k:ポ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ポ",
+    "romaji": "po",
+    "accept": [
+      "po"
+    ],
+    "mnemonic": "ホ plus ゜: the hoe clinks a flower pot, po."
+  },
+  {
+    "id": "k:キャ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "キャ",
+    "romaji": "kya",
+    "accept": [
+      "kya"
+    ],
+    "mnemonic": "キ (ki) squeezes up with a tiny ャ (ya) into one beat: kya."
+  },
+  {
+    "id": "k:キュ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "キュ",
+    "romaji": "kyu",
+    "accept": [
+      "kyu"
+    ],
+    "mnemonic": "キ (ki) squeezes up with a tiny ュ (yu) into one beat: kyu."
+  },
+  {
+    "id": "k:キョ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "キョ",
+    "romaji": "kyo",
+    "accept": [
+      "kyo"
+    ],
+    "mnemonic": "キ (ki) squeezes up with a tiny ョ (yo) into one beat: kyo."
+  },
+  {
+    "id": "k:シャ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "シャ",
+    "romaji": "sha",
+    "accept": [
+      "sha",
+      "sya"
+    ],
+    "mnemonic": "シ (shi) squeezes up with a tiny ャ (ya) into one beat, drop the y: sha."
+  },
+  {
+    "id": "k:シュ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "シュ",
+    "romaji": "shu",
+    "accept": [
+      "shu",
+      "syu"
+    ],
+    "mnemonic": "シ (shi) squeezes up with a tiny ュ (yu) into one beat, drop the y: shu."
+  },
+  {
+    "id": "k:ショ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ショ",
+    "romaji": "sho",
+    "accept": [
+      "sho",
+      "syo"
+    ],
+    "mnemonic": "シ (shi) squeezes up with a tiny ョ (yo) into one beat, drop the y: sho."
+  },
+  {
+    "id": "k:チャ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "チャ",
+    "romaji": "cha",
+    "accept": [
+      "cha",
+      "tya",
+      "cya"
+    ],
+    "mnemonic": "チ (chi) squeezes up with a tiny ャ (ya) into one beat, drop the y: cha."
+  },
+  {
+    "id": "k:チュ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "チュ",
+    "romaji": "chu",
+    "accept": [
+      "chu",
+      "tyu",
+      "cyu"
+    ],
+    "mnemonic": "チ (chi) squeezes up with a tiny ュ (yu) into one beat, drop the y: chu."
+  },
+  {
+    "id": "k:チョ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "チョ",
+    "romaji": "cho",
+    "accept": [
+      "cho",
+      "tyo",
+      "cyo"
+    ],
+    "mnemonic": "チ (chi) squeezes up with a tiny ョ (yo) into one beat, drop the y: cho."
+  },
+  {
+    "id": "k:ニャ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ニャ",
+    "romaji": "nya",
+    "accept": [
+      "nya"
+    ],
+    "mnemonic": "ニ (ni) squeezes up with a tiny ャ (ya) into one beat: nya."
+  },
+  {
+    "id": "k:ニュ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ニュ",
+    "romaji": "nyu",
+    "accept": [
+      "nyu"
+    ],
+    "mnemonic": "ニ (ni) squeezes up with a tiny ュ (yu) into one beat: nyu."
+  },
+  {
+    "id": "k:ニョ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ニョ",
+    "romaji": "nyo",
+    "accept": [
+      "nyo"
+    ],
+    "mnemonic": "ニ (ni) squeezes up with a tiny ョ (yo) into one beat: nyo."
+  },
+  {
+    "id": "k:ヒャ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ヒャ",
+    "romaji": "hya",
+    "accept": [
+      "hya"
+    ],
+    "mnemonic": "ヒ (hi) squeezes up with a tiny ャ (ya) into one beat: hya."
+  },
+  {
+    "id": "k:ヒュ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ヒュ",
+    "romaji": "hyu",
+    "accept": [
+      "hyu"
+    ],
+    "mnemonic": "ヒ (hi) squeezes up with a tiny ュ (yu) into one beat: hyu."
+  },
+  {
+    "id": "k:ヒョ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ヒョ",
+    "romaji": "hyo",
+    "accept": [
+      "hyo"
+    ],
+    "mnemonic": "ヒ (hi) squeezes up with a tiny ョ (yo) into one beat: hyo."
+  },
+  {
+    "id": "k:ミャ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ミャ",
+    "romaji": "mya",
+    "accept": [
+      "mya"
+    ],
+    "mnemonic": "ミ (mi) squeezes up with a tiny ャ (ya) into one beat: mya."
+  },
+  {
+    "id": "k:ミュ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ミュ",
+    "romaji": "myu",
+    "accept": [
+      "myu"
+    ],
+    "mnemonic": "ミ (mi) squeezes up with a tiny ュ (yu) into one beat: myu."
+  },
+  {
+    "id": "k:ミョ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ミョ",
+    "romaji": "myo",
+    "accept": [
+      "myo"
+    ],
+    "mnemonic": "ミ (mi) squeezes up with a tiny ョ (yo) into one beat: myo."
+  },
+  {
+    "id": "k:リャ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "リャ",
+    "romaji": "rya",
+    "accept": [
+      "rya"
+    ],
+    "mnemonic": "リ (ri) squeezes up with a tiny ャ (ya) into one beat: rya."
+  },
+  {
+    "id": "k:リュ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "リュ",
+    "romaji": "ryu",
+    "accept": [
+      "ryu"
+    ],
+    "mnemonic": "リ (ri) squeezes up with a tiny ュ (yu) into one beat: ryu."
+  },
+  {
+    "id": "k:リョ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "リョ",
+    "romaji": "ryo",
+    "accept": [
+      "ryo"
+    ],
+    "mnemonic": "リ (ri) squeezes up with a tiny ョ (yo) into one beat: ryo."
+  },
+  {
+    "id": "k:ギャ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ギャ",
+    "romaji": "gya",
+    "accept": [
+      "gya"
+    ],
+    "mnemonic": "ギ (gi) squeezes up with a tiny ャ (ya) into one beat: gya."
+  },
+  {
+    "id": "k:ギュ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ギュ",
+    "romaji": "gyu",
+    "accept": [
+      "gyu"
+    ],
+    "mnemonic": "ギ (gi) squeezes up with a tiny ュ (yu) into one beat: gyu."
+  },
+  {
+    "id": "k:ギョ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ギョ",
+    "romaji": "gyo",
+    "accept": [
+      "gyo"
+    ],
+    "mnemonic": "ギ (gi) squeezes up with a tiny ョ (yo) into one beat: gyo."
+  },
+  {
+    "id": "k:ジャ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ジャ",
+    "romaji": "ja",
+    "accept": [
+      "ja",
+      "zya",
+      "jya"
+    ],
+    "mnemonic": "ジ (ji) squeezes up with a tiny ャ (ya) into one beat, drop the y: ja."
+  },
+  {
+    "id": "k:ジュ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ジュ",
+    "romaji": "ju",
+    "accept": [
+      "ju",
+      "zyu",
+      "jyu"
+    ],
+    "mnemonic": "ジ (ji) squeezes up with a tiny ュ (yu) into one beat, drop the y: ju."
+  },
+  {
+    "id": "k:ジョ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ジョ",
+    "romaji": "jo",
+    "accept": [
+      "jo",
+      "zyo",
+      "jyo"
+    ],
+    "mnemonic": "ジ (ji) squeezes up with a tiny ョ (yo) into one beat, drop the y: jo."
+  },
+  {
+    "id": "k:ビャ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ビャ",
+    "romaji": "bya",
+    "accept": [
+      "bya"
+    ],
+    "mnemonic": "ビ (bi) squeezes up with a tiny ャ (ya) into one beat: bya."
+  },
+  {
+    "id": "k:ビュ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ビュ",
+    "romaji": "byu",
+    "accept": [
+      "byu"
+    ],
+    "mnemonic": "ビ (bi) squeezes up with a tiny ュ (yu) into one beat: byu."
+  },
+  {
+    "id": "k:ビョ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ビョ",
+    "romaji": "byo",
+    "accept": [
+      "byo"
+    ],
+    "mnemonic": "ビ (bi) squeezes up with a tiny ョ (yo) into one beat: byo."
+  },
+  {
+    "id": "k:ピャ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ピャ",
+    "romaji": "pya",
+    "accept": [
+      "pya"
+    ],
+    "mnemonic": "ピ (pi) squeezes up with a tiny ャ (ya) into one beat: pya."
+  },
+  {
+    "id": "k:ピュ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ピュ",
+    "romaji": "pyu",
+    "accept": [
+      "pyu"
+    ],
+    "mnemonic": "ピ (pi) squeezes up with a tiny ュ (yu) into one beat: pyu."
+  },
+  {
+    "id": "k:ピョ",
+    "kind": "kana",
+    "script": "kata",
+    "char": "ピョ",
+    "romaji": "pyo",
+    "accept": [
+      "pyo"
+    ],
+    "mnemonic": "ピ (pi) squeezes up with a tiny ョ (yo) into one beat: pyo."
+  },
+  {
+    "id": "k:~long",
+    "kind": "rule",
+    "script": "kata",
+    "char": "ー",
+    "title": "Long-vowel mark",
+    "explain": "In katakana a long vowel is written with a dash ー. It means \"hold the vowel before me for one more beat\": ケーキ is ke-e-ki (cake). In vertical text the dash turns into a vertical line.",
+    "mnemonic": "ー is a stretched-out vine: keep the last vowel going until the line runs out.",
+    "examples": [
+      {
+        "jp": "ケーキ",
+        "romaji": "keeki",
+        "wrong": [
+          "keki",
+          "kekki",
+          "kiiki"
+        ]
+      },
+      {
+        "jp": "コーヒー",
+        "romaji": "koohii",
+        "wrong": [
+          "kohi",
+          "koohi",
+          "kohii"
+        ]
+      },
+      {
+        "jp": "ノート",
+        "romaji": "nooto",
+        "wrong": [
+          "noto",
+          "nootto",
+          "naato"
+        ]
+      },
+      {
+        "jp": "ラーメン",
+        "romaji": "raamen",
+        "wrong": [
+          "ramen",
+          "raamein",
+          "rameen"
+        ]
+      },
+      {
+        "jp": "スキー",
+        "romaji": "sukii",
+        "wrong": [
+          "suki",
+          "sukki",
+          "sukee"
+        ]
+      },
+      {
+        "jp": "セーター",
+        "romaji": "seetaa",
+        "wrong": [
+          "seta",
+          "seetta",
+          "saataa"
+        ]
+      }
+    ]
+  }
+]

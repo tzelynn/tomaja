@@ -1,0 +1,1425 @@
+[
+  {
+    "id": "v:いえ",
+    "kind": "vocab",
+    "jp": "いえ",
+    "reading": "いえ",
+    "romaji": "ie",
+    "meaning": "house",
+    "altMeanings": [
+      "home"
+    ]
+  },
+  {
+    "id": "v:うえ",
+    "kind": "vocab",
+    "jp": "うえ",
+    "reading": "うえ",
+    "romaji": "ue",
+    "meaning": "above",
+    "altMeanings": [
+      "up",
+      "on top",
+      "top"
+    ]
+  },
+  {
+    "id": "v:かお",
+    "kind": "vocab",
+    "jp": "かお",
+    "reading": "かお",
+    "romaji": "kao",
+    "meaning": "face",
+    "altMeanings": []
+  },
+  {
+    "id": "v:えき",
+    "kind": "vocab",
+    "jp": "えき",
+    "reading": "えき",
+    "romaji": "eki",
+    "meaning": "station",
+    "altMeanings": [
+      "train station"
+    ]
+  },
+  {
+    "id": "v:あかい",
+    "kind": "vocab",
+    "jp": "あかい",
+    "reading": "あかい",
+    "romaji": "akai",
+    "meaning": "red",
+    "altMeanings": []
+  },
+  {
+    "id": "v:おおきい",
+    "kind": "vocab",
+    "jp": "おおきい",
+    "reading": "おおきい",
+    "romaji": "ookii",
+    "meaning": "big",
+    "altMeanings": [
+      "large"
+    ]
+  },
+  {
+    "id": "v:ここ",
+    "kind": "vocab",
+    "jp": "ここ",
+    "reading": "ここ",
+    "romaji": "koko",
+    "meaning": "here",
+    "altMeanings": [
+      "this place"
+    ]
+  },
+  {
+    "id": "v:あさ",
+    "kind": "vocab",
+    "jp": "あさ",
+    "reading": "あさ",
+    "romaji": "asa",
+    "meaning": "morning",
+    "altMeanings": []
+  },
+  {
+    "id": "v:すし",
+    "kind": "vocab",
+    "jp": "すし",
+    "reading": "すし",
+    "romaji": "sushi",
+    "meaning": "sushi",
+    "altMeanings": []
+  },
+  {
+    "id": "v:かさ",
+    "kind": "vocab",
+    "jp": "かさ",
+    "reading": "かさ",
+    "romaji": "kasa",
+    "meaning": "umbrella",
+    "altMeanings": []
+  },
+  {
+    "id": "v:そこ",
+    "kind": "vocab",
+    "jp": "そこ",
+    "reading": "そこ",
+    "romaji": "soko",
+    "meaning": "there",
+    "altMeanings": [
+      "that place"
+    ]
+  },
+  {
+    "id": "v:あそこ",
+    "kind": "vocab",
+    "jp": "あそこ",
+    "reading": "あそこ",
+    "romaji": "asoko",
+    "meaning": "over there",
+    "altMeanings": [
+      "there",
+      "that place over there"
+    ]
+  },
+  {
+    "id": "v:すき",
+    "kind": "vocab",
+    "jp": "すき",
+    "reading": "すき",
+    "romaji": "suki",
+    "meaning": "like",
+    "altMeanings": [
+      "liked",
+      "favourite",
+      "favorite",
+      "fond of",
+      "to like"
+    ]
+  },
+  {
+    "id": "v:した",
+    "kind": "vocab",
+    "jp": "した",
+    "reading": "した",
+    "romaji": "shita",
+    "meaning": "below",
+    "altMeanings": [
+      "under",
+      "down",
+      "beneath"
+    ]
+  },
+  {
+    "id": "v:たかい",
+    "kind": "vocab",
+    "jp": "たかい",
+    "reading": "たかい",
+    "romaji": "takai",
+    "meaning": "expensive",
+    "altMeanings": [
+      "tall",
+      "high"
+    ]
+  },
+  {
+    "id": "v:ちいさい",
+    "kind": "vocab",
+    "jp": "ちいさい",
+    "reading": "ちいさい",
+    "romaji": "chiisai",
+    "meaning": "small",
+    "altMeanings": [
+      "little"
+    ]
+  },
+  {
+    "id": "v:つくえ",
+    "kind": "vocab",
+    "jp": "つくえ",
+    "reading": "つくえ",
+    "romaji": "tsukue",
+    "meaning": "desk",
+    "altMeanings": []
+  },
+  {
+    "id": "v:うち",
+    "kind": "vocab",
+    "jp": "うち",
+    "reading": "うち",
+    "romaji": "uchi",
+    "meaning": "home",
+    "altMeanings": [
+      "house",
+      "my house"
+    ]
+  },
+  {
+    "id": "v:あした",
+    "kind": "vocab",
+    "jp": "あした",
+    "reading": "あした",
+    "romaji": "ashita",
+    "meaning": "tomorrow",
+    "altMeanings": []
+  },
+  {
+    "id": "v:いぬ",
+    "kind": "vocab",
+    "jp": "いぬ",
+    "reading": "いぬ",
+    "romaji": "inu",
+    "meaning": "dog",
+    "altMeanings": []
+  },
+  {
+    "id": "v:ねこ",
+    "kind": "vocab",
+    "jp": "ねこ",
+    "reading": "ねこ",
+    "romaji": "neko",
+    "meaning": "cat",
+    "altMeanings": []
+  },
+  {
+    "id": "v:なに",
+    "kind": "vocab",
+    "jp": "なに",
+    "reading": "なに",
+    "romaji": "nani",
+    "meaning": "what",
+    "altMeanings": []
+  },
+  {
+    "id": "v:あなた",
+    "kind": "vocab",
+    "jp": "あなた",
+    "reading": "あなた",
+    "romaji": "anata",
+    "meaning": "you",
+    "altMeanings": []
+  },
+  {
+    "id": "v:なか",
+    "kind": "vocab",
+    "jp": "なか",
+    "reading": "なか",
+    "romaji": "naka",
+    "meaning": "inside",
+    "altMeanings": [
+      "in",
+      "middle"
+    ]
+  },
+  {
+    "id": "v:はな",
+    "kind": "vocab",
+    "jp": "はな",
+    "reading": "はな",
+    "romaji": "hana",
+    "meaning": "flower",
+    "altMeanings": [
+      "nose",
+      "flowers"
+    ]
+  },
+  {
+    "id": "v:ひと",
+    "kind": "vocab",
+    "jp": "ひと",
+    "reading": "ひと",
+    "romaji": "hito",
+    "meaning": "person",
+    "altMeanings": [
+      "people",
+      "man"
+    ]
+  },
+  {
+    "id": "v:みせ",
+    "kind": "vocab",
+    "jp": "みせ",
+    "reading": "みせ",
+    "romaji": "mise",
+    "meaning": "shop",
+    "altMeanings": [
+      "store"
+    ]
+  },
+  {
+    "id": "v:いま",
+    "kind": "vocab",
+    "jp": "いま",
+    "reading": "いま",
+    "romaji": "ima",
+    "meaning": "now",
+    "altMeanings": []
+  },
+  {
+    "id": "v:やすみ",
+    "kind": "vocab",
+    "jp": "やすみ",
+    "reading": "やすみ",
+    "romaji": "yasumi",
+    "meaning": "day off",
+    "altMeanings": [
+      "holiday",
+      "rest",
+      "break",
+      "vacation"
+    ]
+  },
+  {
+    "id": "v:さむい",
+    "kind": "vocab",
+    "jp": "さむい",
+    "reading": "さむい",
+    "romaji": "samui",
+    "meaning": "cold",
+    "altMeanings": []
+  },
+  {
+    "id": "v:おいしい",
+    "kind": "vocab",
+    "jp": "おいしい",
+    "reading": "おいしい",
+    "romaji": "oishii",
+    "meaning": "delicious",
+    "altMeanings": [
+      "tasty",
+      "yummy",
+      "good"
+    ]
+  },
+  {
+    "id": "v:やま",
+    "kind": "vocab",
+    "jp": "やま",
+    "reading": "やま",
+    "romaji": "yama",
+    "meaning": "mountain",
+    "altMeanings": []
+  },
+  {
+    "id": "v:やさい",
+    "kind": "vocab",
+    "jp": "やさい",
+    "reading": "やさい",
+    "romaji": "yasai",
+    "meaning": "vegetables",
+    "altMeanings": [
+      "vegetable",
+      "veggies"
+    ]
+  },
+  {
+    "id": "v:へや",
+    "kind": "vocab",
+    "jp": "へや",
+    "reading": "へや",
+    "romaji": "heya",
+    "meaning": "room",
+    "altMeanings": []
+  },
+  {
+    "id": "v:さくら",
+    "kind": "vocab",
+    "jp": "さくら",
+    "reading": "さくら",
+    "romaji": "sakura",
+    "meaning": "cherry blossom",
+    "altMeanings": [
+      "cherry blossoms",
+      "sakura",
+      "cherry tree"
+    ]
+  },
+  {
+    "id": "v:くるま",
+    "kind": "vocab",
+    "jp": "くるま",
+    "reading": "くるま",
+    "romaji": "kuruma",
+    "meaning": "car",
+    "altMeanings": []
+  },
+  {
+    "id": "v:これ",
+    "kind": "vocab",
+    "jp": "これ",
+    "reading": "これ",
+    "romaji": "kore",
+    "meaning": "this",
+    "altMeanings": [
+      "this one"
+    ]
+  },
+  {
+    "id": "v:それ",
+    "kind": "vocab",
+    "jp": "それ",
+    "reading": "それ",
+    "romaji": "sore",
+    "meaning": "that",
+    "altMeanings": [
+      "that one"
+    ]
+  },
+  {
+    "id": "v:あれ",
+    "kind": "vocab",
+    "jp": "あれ",
+    "reading": "あれ",
+    "romaji": "are",
+    "meaning": "that over there",
+    "altMeanings": [
+      "that",
+      "that one over there"
+    ]
+  },
+  {
+    "id": "v:あたらしい",
+    "kind": "vocab",
+    "jp": "あたらしい",
+    "reading": "あたらしい",
+    "romaji": "atarashii",
+    "meaning": "new",
+    "altMeanings": []
+  },
+  {
+    "id": "v:わたし",
+    "kind": "vocab",
+    "jp": "わたし",
+    "reading": "わたし",
+    "romaji": "watashi",
+    "meaning": "I",
+    "altMeanings": [
+      "me"
+    ]
+  },
+  {
+    "id": "v:ほん",
+    "kind": "vocab",
+    "jp": "ほん",
+    "reading": "ほん",
+    "romaji": "hon",
+    "meaning": "book",
+    "altMeanings": []
+  },
+  {
+    "id": "v:にほん",
+    "kind": "vocab",
+    "jp": "にほん",
+    "reading": "にほん",
+    "romaji": "nihon",
+    "meaning": "Japan",
+    "altMeanings": []
+  },
+  {
+    "id": "v:みかん",
+    "kind": "vocab",
+    "jp": "みかん",
+    "reading": "みかん",
+    "romaji": "mikan",
+    "meaning": "mandarin orange",
+    "altMeanings": [
+      "mandarin",
+      "orange",
+      "tangerine"
+    ]
+  },
+  {
+    "id": "v:こうえん",
+    "kind": "vocab",
+    "jp": "こうえん",
+    "reading": "こうえん",
+    "romaji": "kouen",
+    "meaning": "park",
+    "altMeanings": []
+  },
+  {
+    "id": "v:まいにち",
+    "kind": "vocab",
+    "jp": "まいにち",
+    "reading": "まいにち",
+    "romaji": "mainichi",
+    "meaning": "every day",
+    "altMeanings": [
+      "everyday",
+      "daily"
+    ]
+  },
+  {
+    "id": "v:せんせい",
+    "kind": "vocab",
+    "jp": "せんせい",
+    "reading": "せんせい",
+    "romaji": "sensei",
+    "meaning": "teacher",
+    "altMeanings": []
+  },
+  {
+    "id": "v:おかあさん",
+    "kind": "vocab",
+    "jp": "おかあさん",
+    "reading": "おかあさん",
+    "romaji": "okaasan",
+    "meaning": "mother",
+    "altMeanings": [
+      "mom",
+      "mum"
+    ]
+  },
+  {
+    "id": "v:おとうさん",
+    "kind": "vocab",
+    "jp": "おとうさん",
+    "reading": "おとうさん",
+    "romaji": "otousan",
+    "meaning": "father",
+    "altMeanings": [
+      "dad"
+    ]
+  },
+  {
+    "id": "v:います",
+    "kind": "vocab",
+    "jp": "います",
+    "reading": "います",
+    "romaji": "imasu",
+    "meaning": "to be (people, animals)",
+    "altMeanings": [
+      "there is",
+      "to exist",
+      "is",
+      "be"
+    ]
+  },
+  {
+    "id": "v:あります",
+    "kind": "vocab",
+    "jp": "あります",
+    "reading": "あります",
+    "romaji": "arimasu",
+    "meaning": "to be (things)",
+    "altMeanings": [
+      "there is",
+      "to have",
+      "have",
+      "to exist",
+      "be"
+    ]
+  },
+  {
+    "id": "v:みます",
+    "kind": "vocab",
+    "jp": "みます",
+    "reading": "みます",
+    "romaji": "mimasu",
+    "meaning": "to see",
+    "altMeanings": [
+      "to watch",
+      "to look",
+      "see",
+      "watch"
+    ]
+  },
+  {
+    "id": "v:ききます",
+    "kind": "vocab",
+    "jp": "ききます",
+    "reading": "ききます",
+    "romaji": "kikimasu",
+    "meaning": "to listen",
+    "altMeanings": [
+      "to hear",
+      "to ask",
+      "listen",
+      "hear"
+    ]
+  },
+  {
+    "id": "v:いきます",
+    "kind": "vocab",
+    "jp": "いきます",
+    "reading": "いきます",
+    "romaji": "ikimasu",
+    "meaning": "to go",
+    "altMeanings": [
+      "go"
+    ]
+  },
+  {
+    "id": "v:きます",
+    "kind": "vocab",
+    "jp": "きます",
+    "reading": "きます",
+    "romaji": "kimasu",
+    "meaning": "to come",
+    "altMeanings": [
+      "come"
+    ]
+  },
+  {
+    "id": "v:のみます",
+    "kind": "vocab",
+    "jp": "のみます",
+    "reading": "のみます",
+    "romaji": "nomimasu",
+    "meaning": "to drink",
+    "altMeanings": [
+      "drink"
+    ]
+  },
+  {
+    "id": "v:かいます",
+    "kind": "vocab",
+    "jp": "かいます",
+    "reading": "かいます",
+    "romaji": "kaimasu",
+    "meaning": "to buy",
+    "altMeanings": [
+      "buy"
+    ]
+  },
+  {
+    "id": "v:します",
+    "kind": "vocab",
+    "jp": "します",
+    "reading": "します",
+    "romaji": "shimasu",
+    "meaning": "to do",
+    "altMeanings": [
+      "do"
+    ]
+  },
+  {
+    "id": "v:よみます",
+    "kind": "vocab",
+    "jp": "よみます",
+    "reading": "よみます",
+    "romaji": "yomimasu",
+    "meaning": "to read",
+    "altMeanings": [
+      "read"
+    ]
+  },
+  {
+    "id": "v:かえります",
+    "kind": "vocab",
+    "jp": "かえります",
+    "reading": "かえります",
+    "romaji": "kaerimasu",
+    "meaning": "to go home",
+    "altMeanings": [
+      "to return",
+      "to go back",
+      "return",
+      "go home"
+    ]
+  },
+  {
+    "id": "v:わかります",
+    "kind": "vocab",
+    "jp": "わかります",
+    "reading": "わかります",
+    "romaji": "wakarimasu",
+    "meaning": "to understand",
+    "altMeanings": [
+      "understand",
+      "to know"
+    ]
+  },
+  {
+    "id": "v:たべます",
+    "kind": "vocab",
+    "jp": "たべます",
+    "reading": "たべます",
+    "romaji": "tabemasu",
+    "meaning": "to eat",
+    "altMeanings": [
+      "eat"
+    ]
+  },
+  {
+    "id": "v:ごはん",
+    "kind": "vocab",
+    "jp": "ごはん",
+    "reading": "ごはん",
+    "romaji": "gohan",
+    "meaning": "meal",
+    "altMeanings": [
+      "rice",
+      "food",
+      "cooked rice"
+    ]
+  },
+  {
+    "id": "v:だれ",
+    "kind": "vocab",
+    "jp": "だれ",
+    "reading": "だれ",
+    "romaji": "dare",
+    "meaning": "who",
+    "altMeanings": []
+  },
+  {
+    "id": "v:どこ",
+    "kind": "vocab",
+    "jp": "どこ",
+    "reading": "どこ",
+    "romaji": "doko",
+    "meaning": "where",
+    "altMeanings": []
+  },
+  {
+    "id": "v:げんき",
+    "kind": "vocab",
+    "jp": "げんき",
+    "reading": "げんき",
+    "romaji": "genki",
+    "meaning": "healthy",
+    "altMeanings": [
+      "well",
+      "energetic",
+      "fine",
+      "lively"
+    ]
+  },
+  {
+    "id": "v:しずか",
+    "kind": "vocab",
+    "jp": "しずか",
+    "reading": "しずか",
+    "romaji": "shizuka",
+    "meaning": "quiet",
+    "altMeanings": [
+      "calm"
+    ]
+  },
+  {
+    "id": "v:みず",
+    "kind": "vocab",
+    "jp": "みず",
+    "reading": "みず",
+    "romaji": "mizu",
+    "meaning": "water",
+    "altMeanings": []
+  },
+  {
+    "id": "v:ともだち",
+    "kind": "vocab",
+    "jp": "ともだち",
+    "reading": "ともだち",
+    "romaji": "tomodachi",
+    "meaning": "friend",
+    "altMeanings": [
+      "friends"
+    ]
+  },
+  {
+    "id": "v:かばん",
+    "kind": "vocab",
+    "jp": "かばん",
+    "reading": "かばん",
+    "romaji": "kaban",
+    "meaning": "bag",
+    "altMeanings": []
+  },
+  {
+    "id": "v:かぞく",
+    "kind": "vocab",
+    "jp": "かぞく",
+    "reading": "かぞく",
+    "romaji": "kazoku",
+    "meaning": "family",
+    "altMeanings": []
+  },
+  {
+    "id": "v:たまご",
+    "kind": "vocab",
+    "jp": "たまご",
+    "reading": "たまご",
+    "romaji": "tamago",
+    "meaning": "egg",
+    "altMeanings": [
+      "eggs"
+    ]
+  },
+  {
+    "id": "v:でんわ",
+    "kind": "vocab",
+    "jp": "でんわ",
+    "reading": "でんわ",
+    "romaji": "denwa",
+    "meaning": "telephone",
+    "altMeanings": [
+      "phone"
+    ]
+  },
+  {
+    "id": "v:えんぴつ",
+    "kind": "vocab",
+    "jp": "えんぴつ",
+    "reading": "えんぴつ",
+    "romaji": "enpitsu",
+    "meaning": "pencil",
+    "altMeanings": []
+  },
+  {
+    "id": "v:きんようび",
+    "kind": "vocab",
+    "jp": "きんようび",
+    "reading": "きんようび",
+    "romaji": "kin'youbi",
+    "meaning": "Friday",
+    "altMeanings": []
+  },
+  {
+    "id": "v:にちようび",
+    "kind": "vocab",
+    "jp": "にちようび",
+    "reading": "にちようび",
+    "romaji": "nichiyoubi",
+    "meaning": "Sunday",
+    "altMeanings": []
+  },
+  {
+    "id": "v:がっこう",
+    "kind": "vocab",
+    "jp": "がっこう",
+    "reading": "がっこう",
+    "romaji": "gakkou",
+    "meaning": "school",
+    "altMeanings": []
+  },
+  {
+    "id": "v:しゃしん",
+    "kind": "vocab",
+    "jp": "しゃしん",
+    "reading": "しゃしん",
+    "romaji": "shashin",
+    "meaning": "photo",
+    "altMeanings": [
+      "photograph",
+      "picture"
+    ]
+  },
+  {
+    "id": "v:きって",
+    "kind": "vocab",
+    "jp": "きって",
+    "reading": "きって",
+    "romaji": "kitte",
+    "meaning": "stamp",
+    "altMeanings": [
+      "postage stamp"
+    ]
+  },
+  {
+    "id": "v:ぎゅうにゅう",
+    "kind": "vocab",
+    "jp": "ぎゅうにゅう",
+    "reading": "ぎゅうにゅう",
+    "romaji": "gyuunyuu",
+    "meaning": "milk",
+    "altMeanings": []
+  },
+  {
+    "id": "v:きょう",
+    "kind": "vocab",
+    "jp": "きょう",
+    "reading": "きょう",
+    "romaji": "kyou",
+    "meaning": "today",
+    "altMeanings": []
+  },
+  {
+    "id": "v:おちゃ",
+    "kind": "vocab",
+    "jp": "おちゃ",
+    "reading": "おちゃ",
+    "romaji": "ocha",
+    "meaning": "tea",
+    "altMeanings": [
+      "green tea"
+    ]
+  },
+  {
+    "id": "v:しゅくだい",
+    "kind": "vocab",
+    "jp": "しゅくだい",
+    "reading": "しゅくだい",
+    "romaji": "shukudai",
+    "meaning": "homework",
+    "altMeanings": []
+  },
+  {
+    "id": "v:りょこう",
+    "kind": "vocab",
+    "jp": "りょこう",
+    "reading": "りょこう",
+    "romaji": "ryokou",
+    "meaning": "trip",
+    "altMeanings": [
+      "travel",
+      "journey"
+    ]
+  },
+  {
+    "id": "v:でんしゃ",
+    "kind": "vocab",
+    "jp": "でんしゃ",
+    "reading": "でんしゃ",
+    "romaji": "densha",
+    "meaning": "train",
+    "altMeanings": []
+  },
+  {
+    "id": "v:びょういん",
+    "kind": "vocab",
+    "jp": "びょういん",
+    "reading": "びょういん",
+    "romaji": "byouin",
+    "meaning": "hospital",
+    "altMeanings": []
+  },
+  {
+    "id": "v:としょかん",
+    "kind": "vocab",
+    "jp": "としょかん",
+    "reading": "としょかん",
+    "romaji": "toshokan",
+    "meaning": "library",
+    "altMeanings": []
+  },
+  {
+    "id": "v:ざっし",
+    "kind": "vocab",
+    "jp": "ざっし",
+    "reading": "ざっし",
+    "romaji": "zasshi",
+    "meaning": "magazine",
+    "altMeanings": []
+  },
+  {
+    "id": "v:じしょ",
+    "kind": "vocab",
+    "jp": "じしょ",
+    "reading": "じしょ",
+    "romaji": "jisho",
+    "meaning": "dictionary",
+    "altMeanings": []
+  },
+  {
+    "id": "v:トマト",
+    "kind": "vocab",
+    "jp": "トマト",
+    "reading": "トマト",
+    "romaji": "tomato",
+    "meaning": "tomato",
+    "altMeanings": []
+  },
+  {
+    "id": "v:アイス",
+    "kind": "vocab",
+    "jp": "アイス",
+    "reading": "アイス",
+    "romaji": "aisu",
+    "meaning": "ice cream",
+    "altMeanings": [
+      "ice"
+    ]
+  },
+  {
+    "id": "v:カメラ",
+    "kind": "vocab",
+    "jp": "カメラ",
+    "reading": "カメラ",
+    "romaji": "kamera",
+    "meaning": "camera",
+    "altMeanings": []
+  },
+  {
+    "id": "v:ホテル",
+    "kind": "vocab",
+    "jp": "ホテル",
+    "reading": "ホテル",
+    "romaji": "hoteru",
+    "meaning": "hotel",
+    "altMeanings": []
+  },
+  {
+    "id": "v:メロン",
+    "kind": "vocab",
+    "jp": "メロン",
+    "reading": "メロン",
+    "romaji": "meron",
+    "meaning": "melon",
+    "altMeanings": []
+  },
+  {
+    "id": "v:レモン",
+    "kind": "vocab",
+    "jp": "レモン",
+    "reading": "レモン",
+    "romaji": "remon",
+    "meaning": "lemon",
+    "altMeanings": []
+  },
+  {
+    "id": "v:テニス",
+    "kind": "vocab",
+    "jp": "テニス",
+    "reading": "テニス",
+    "romaji": "tenisu",
+    "meaning": "tennis",
+    "altMeanings": []
+  },
+  {
+    "id": "v:ネクタイ",
+    "kind": "vocab",
+    "jp": "ネクタイ",
+    "reading": "ネクタイ",
+    "romaji": "nekutai",
+    "meaning": "tie",
+    "altMeanings": [
+      "necktie"
+    ]
+  },
+  {
+    "id": "v:ミルク",
+    "kind": "vocab",
+    "jp": "ミルク",
+    "reading": "ミルク",
+    "romaji": "miruku",
+    "meaning": "milk",
+    "altMeanings": []
+  },
+  {
+    "id": "v:タオル",
+    "kind": "vocab",
+    "jp": "タオル",
+    "reading": "タオル",
+    "romaji": "taoru",
+    "meaning": "towel",
+    "altMeanings": []
+  },
+  {
+    "id": "v:ナイフ",
+    "kind": "vocab",
+    "jp": "ナイフ",
+    "reading": "ナイフ",
+    "romaji": "naifu",
+    "meaning": "knife",
+    "altMeanings": []
+  },
+  {
+    "id": "v:トイレ",
+    "kind": "vocab",
+    "jp": "トイレ",
+    "reading": "トイレ",
+    "romaji": "toire",
+    "meaning": "toilet",
+    "altMeanings": [
+      "bathroom",
+      "restroom"
+    ]
+  },
+  {
+    "id": "v:クラス",
+    "kind": "vocab",
+    "jp": "クラス",
+    "reading": "クラス",
+    "romaji": "kurasu",
+    "meaning": "class",
+    "altMeanings": []
+  },
+  {
+    "id": "v:テスト",
+    "kind": "vocab",
+    "jp": "テスト",
+    "reading": "テスト",
+    "romaji": "tesuto",
+    "meaning": "test",
+    "altMeanings": [
+      "exam"
+    ]
+  },
+  {
+    "id": "v:アメリカ",
+    "kind": "vocab",
+    "jp": "アメリカ",
+    "reading": "アメリカ",
+    "romaji": "amerika",
+    "meaning": "America",
+    "altMeanings": [
+      "USA",
+      "the US"
+    ]
+  },
+  {
+    "id": "v:カナダ",
+    "kind": "vocab",
+    "jp": "カナダ",
+    "reading": "カナダ",
+    "romaji": "kanada",
+    "meaning": "Canada",
+    "altMeanings": []
+  },
+  {
+    "id": "v:レストラン",
+    "kind": "vocab",
+    "jp": "レストラン",
+    "reading": "レストラン",
+    "romaji": "resutoran",
+    "meaning": "restaurant",
+    "altMeanings": []
+  },
+  {
+    "id": "v:パン",
+    "kind": "vocab",
+    "jp": "パン",
+    "reading": "パン",
+    "romaji": "pan",
+    "meaning": "bread",
+    "altMeanings": []
+  },
+  {
+    "id": "v:バナナ",
+    "kind": "vocab",
+    "jp": "バナナ",
+    "reading": "バナナ",
+    "romaji": "banana",
+    "meaning": "banana",
+    "altMeanings": []
+  },
+  {
+    "id": "v:テレビ",
+    "kind": "vocab",
+    "jp": "テレビ",
+    "reading": "テレビ",
+    "romaji": "terebi",
+    "meaning": "TV",
+    "altMeanings": [
+      "television"
+    ]
+  },
+  {
+    "id": "v:バス",
+    "kind": "vocab",
+    "jp": "バス",
+    "reading": "バス",
+    "romaji": "basu",
+    "meaning": "bus",
+    "altMeanings": []
+  },
+  {
+    "id": "v:ペン",
+    "kind": "vocab",
+    "jp": "ペン",
+    "reading": "ペン",
+    "romaji": "pen",
+    "meaning": "pen",
+    "altMeanings": []
+  },
+  {
+    "id": "v:ピアノ",
+    "kind": "vocab",
+    "jp": "ピアノ",
+    "reading": "ピアノ",
+    "romaji": "piano",
+    "meaning": "piano",
+    "altMeanings": []
+  },
+  {
+    "id": "v:ラジオ",
+    "kind": "vocab",
+    "jp": "ラジオ",
+    "reading": "ラジオ",
+    "romaji": "rajio",
+    "meaning": "radio",
+    "altMeanings": []
+  },
+  {
+    "id": "v:ドア",
+    "kind": "vocab",
+    "jp": "ドア",
+    "reading": "ドア",
+    "romaji": "doa",
+    "meaning": "door",
+    "altMeanings": []
+  },
+  {
+    "id": "v:ピザ",
+    "kind": "vocab",
+    "jp": "ピザ",
+    "reading": "ピザ",
+    "romaji": "piza",
+    "meaning": "pizza",
+    "altMeanings": []
+  },
+  {
+    "id": "v:サラダ",
+    "kind": "vocab",
+    "jp": "サラダ",
+    "reading": "サラダ",
+    "romaji": "sarada",
+    "meaning": "salad",
+    "altMeanings": []
+  },
+  {
+    "id": "v:パソコン",
+    "kind": "vocab",
+    "jp": "パソコン",
+    "reading": "パソコン",
+    "romaji": "pasokon",
+    "meaning": "computer",
+    "altMeanings": [
+      "PC",
+      "laptop",
+      "personal computer"
+    ]
+  },
+  {
+    "id": "v:コーヒー",
+    "kind": "vocab",
+    "jp": "コーヒー",
+    "reading": "コーヒー",
+    "romaji": "koohii",
+    "meaning": "coffee",
+    "altMeanings": []
+  },
+  {
+    "id": "v:ケーキ",
+    "kind": "vocab",
+    "jp": "ケーキ",
+    "reading": "ケーキ",
+    "romaji": "keeki",
+    "meaning": "cake",
+    "altMeanings": []
+  },
+  {
+    "id": "v:タクシー",
+    "kind": "vocab",
+    "jp": "タクシー",
+    "reading": "タクシー",
+    "romaji": "takushii",
+    "meaning": "taxi",
+    "altMeanings": []
+  },
+  {
+    "id": "v:ノート",
+    "kind": "vocab",
+    "jp": "ノート",
+    "reading": "ノート",
+    "romaji": "nooto",
+    "meaning": "notebook",
+    "altMeanings": []
+  },
+  {
+    "id": "v:ゲーム",
+    "kind": "vocab",
+    "jp": "ゲーム",
+    "reading": "ゲーム",
+    "romaji": "geemu",
+    "meaning": "game",
+    "altMeanings": [
+      "video game"
+    ]
+  },
+  {
+    "id": "v:スキー",
+    "kind": "vocab",
+    "jp": "スキー",
+    "reading": "スキー",
+    "romaji": "sukii",
+    "meaning": "skiing",
+    "altMeanings": [
+      "ski"
+    ]
+  },
+  {
+    "id": "v:コップ",
+    "kind": "vocab",
+    "jp": "コップ",
+    "reading": "コップ",
+    "romaji": "koppu",
+    "meaning": "cup",
+    "altMeanings": [
+      "glass"
+    ]
+  },
+  {
+    "id": "v:ベッド",
+    "kind": "vocab",
+    "jp": "ベッド",
+    "reading": "ベッド",
+    "romaji": "beddo",
+    "meaning": "bed",
+    "altMeanings": []
+  },
+  {
+    "id": "v:ジュース",
+    "kind": "vocab",
+    "jp": "ジュース",
+    "reading": "ジュース",
+    "romaji": "juusu",
+    "meaning": "juice",
+    "altMeanings": []
+  },
+  {
+    "id": "v:チーズ",
+    "kind": "vocab",
+    "jp": "チーズ",
+    "reading": "チーズ",
+    "romaji": "chiizu",
+    "meaning": "cheese",
+    "altMeanings": []
+  },
+  {
+    "id": "v:バター",
+    "kind": "vocab",
+    "jp": "バター",
+    "reading": "バター",
+    "romaji": "bataa",
+    "meaning": "butter",
+    "altMeanings": []
+  },
+  {
+    "id": "v:スープ",
+    "kind": "vocab",
+    "jp": "スープ",
+    "reading": "スープ",
+    "romaji": "suupu",
+    "meaning": "soup",
+    "altMeanings": []
+  },
+  {
+    "id": "v:カレー",
+    "kind": "vocab",
+    "jp": "カレー",
+    "reading": "カレー",
+    "romaji": "karee",
+    "meaning": "curry",
+    "altMeanings": []
+  },
+  {
+    "id": "v:ラーメン",
+    "kind": "vocab",
+    "jp": "ラーメン",
+    "reading": "ラーメン",
+    "romaji": "raamen",
+    "meaning": "ramen",
+    "altMeanings": [
+      "noodles"
+    ]
+  },
+  {
+    "id": "v:スーパー",
+    "kind": "vocab",
+    "jp": "スーパー",
+    "reading": "スーパー",
+    "romaji": "suupaa",
+    "meaning": "supermarket",
+    "altMeanings": []
+  },
+  {
+    "id": "v:テーブル",
+    "kind": "vocab",
+    "jp": "テーブル",
+    "reading": "テーブル",
+    "romaji": "teeburu",
+    "meaning": "table",
+    "altMeanings": []
+  },
+  {
+    "id": "v:シャツ",
+    "kind": "vocab",
+    "jp": "シャツ",
+    "reading": "シャツ",
+    "romaji": "shatsu",
+    "meaning": "shirt",
+    "altMeanings": []
+  },
+  {
+    "id": "v:サッカー",
+    "kind": "vocab",
+    "jp": "サッカー",
+    "reading": "サッカー",
+    "romaji": "sakkaa",
+    "meaning": "soccer",
+    "altMeanings": [
+      "football"
+    ]
+  },
+  {
+    "id": "v:スプーン",
+    "kind": "vocab",
+    "jp": "スプーン",
+    "reading": "スプーン",
+    "romaji": "supuun",
+    "meaning": "spoon",
+    "altMeanings": []
+  },
+  {
+    "id": "v:チョコレート",
+    "kind": "vocab",
+    "jp": "チョコレート",
+    "reading": "チョコレート",
+    "romaji": "chokoreeto",
+    "meaning": "chocolate",
+    "altMeanings": []
+  },
+  {
+    "id": "v:メニュー",
+    "kind": "vocab",
+    "jp": "メニュー",
+    "reading": "メニュー",
+    "romaji": "menyuu",
+    "meaning": "menu",
+    "altMeanings": []
+  }
+]

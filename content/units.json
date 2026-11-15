@@ -1,0 +1,478 @@
+[
+  {
+    "id": "hira-basic",
+    "title": "Hiragana",
+    "kind": "kana",
+    "packets": [
+      {
+        "id": "hira-basic-1",
+        "items": [
+          "h:あ",
+          "h:い",
+          "h:う",
+          "h:え",
+          "h:お"
+        ]
+      },
+      {
+        "id": "hira-basic-2",
+        "items": [
+          "h:か",
+          "h:き",
+          "h:く",
+          "h:け",
+          "h:こ"
+        ]
+      },
+      {
+        "id": "hira-basic-3",
+        "items": [
+          "h:さ",
+          "h:し",
+          "h:す",
+          "h:せ",
+          "h:そ"
+        ]
+      },
+      {
+        "id": "hira-basic-4",
+        "items": [
+          "h:た",
+          "h:ち",
+          "h:つ",
+          "h:て",
+          "h:と"
+        ]
+      },
+      {
+        "id": "hira-basic-5",
+        "items": [
+          "h:な",
+          "h:に",
+          "h:ぬ",
+          "h:ね",
+          "h:の"
+        ]
+      },
+      {
+        "id": "hira-basic-6",
+        "items": [
+          "h:は",
+          "h:ひ",
+          "h:ふ",
+          "h:へ",
+          "h:ほ"
+        ]
+      },
+      {
+        "id": "hira-basic-7",
+        "items": [
+          "h:ま",
+          "h:み",
+          "h:む",
+          "h:め",
+          "h:も"
+        ]
+      },
+      {
+        "id": "hira-basic-8",
+        "items": [
+          "h:や",
+          "h:ゆ",
+          "h:よ"
+        ]
+      },
+      {
+        "id": "hira-basic-9",
+        "items": [
+          "h:ら",
+          "h:り",
+          "h:る",
+          "h:れ",
+          "h:ろ"
+        ]
+      },
+      {
+        "id": "hira-basic-10",
+        "items": [
+          "h:わ",
+          "h:を",
+          "h:ん"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hira-voiced",
+    "title": "Hiragana voiced",
+    "kind": "kana",
+    "packets": [
+      {
+        "id": "hira-voiced-1",
+        "items": [
+          "h:が",
+          "h:ぎ",
+          "h:ぐ",
+          "h:げ",
+          "h:ご"
+        ]
+      },
+      {
+        "id": "hira-voiced-2",
+        "items": [
+          "h:ざ",
+          "h:じ",
+          "h:ず",
+          "h:ぜ",
+          "h:ぞ"
+        ]
+      },
+      {
+        "id": "hira-voiced-3",
+        "items": [
+          "h:だ",
+          "h:ぢ",
+          "h:づ",
+          "h:で",
+          "h:ど"
+        ]
+      },
+      {
+        "id": "hira-voiced-4",
+        "items": [
+          "h:ば",
+          "h:び",
+          "h:ぶ",
+          "h:べ",
+          "h:ぼ"
+        ]
+      },
+      {
+        "id": "hira-voiced-5",
+        "items": [
+          "h:ぱ",
+          "h:ぴ",
+          "h:ぷ",
+          "h:ぺ",
+          "h:ぽ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hira-combos",
+    "title": "Hiragana combos",
+    "kind": "kana",
+    "packets": [
+      {
+        "id": "hira-combos-1",
+        "items": [
+          "h:~sokuon",
+          "h:~long"
+        ]
+      },
+      {
+        "id": "hira-combos-2",
+        "items": [
+          "h:きゃ",
+          "h:きゅ",
+          "h:きょ",
+          "h:しゃ",
+          "h:しゅ"
+        ]
+      },
+      {
+        "id": "hira-combos-3",
+        "items": [
+          "h:しょ",
+          "h:ちゃ",
+          "h:ちゅ",
+          "h:ちょ",
+          "h:にゃ"
+        ]
+      },
+      {
+        "id": "hira-combos-4",
+        "items": [
+          "h:にゅ",
+          "h:にょ",
+          "h:ひゃ",
+          "h:ひゅ",
+          "h:ひょ"
+        ]
+      },
+      {
+        "id": "hira-combos-5",
+        "items": [
+          "h:みゃ",
+          "h:みゅ",
+          "h:みょ",
+          "h:りゃ",
+          "h:りゅ"
+        ]
+      },
+      {
+        "id": "hira-combos-6",
+        "items": [
+          "h:りょ",
+          "h:ぎゃ",
+          "h:ぎゅ",
+          "h:ぎょ",
+          "h:じゃ"
+        ]
+      },
+      {
+        "id": "hira-combos-7",
+        "items": [
+          "h:じゅ",
+          "h:じょ",
+          "h:びゃ",
+          "h:びゅ",
+          "h:びょ"
+        ]
+      },
+      {
+        "id": "hira-combos-8",
+        "items": [
+          "h:ぴゃ",
+          "h:ぴゅ",
+          "h:ぴょ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kata-basic",
+    "title": "Katakana",
+    "kind": "kana",
+    "packets": [
+      {
+        "id": "kata-basic-1",
+        "items": [
+          "k:ア",
+          "k:イ",
+          "k:ウ",
+          "k:エ",
+          "k:オ"
+        ]
+      },
+      {
+        "id": "kata-basic-2",
+        "items": [
+          "k:カ",
+          "k:キ",
+          "k:ク",
+          "k:ケ",
+          "k:コ"
+        ]
+      },
+      {
+        "id": "kata-basic-3",
+        "items": [
+          "k:サ",
+          "k:シ",
+          "k:ス",
+          "k:セ",
+          "k:ソ"
+        ]
+      },
+      {
+        "id": "kata-basic-4",
+        "items": [
+          "k:タ",
+          "k:チ",
+          "k:ツ",
+          "k:テ",
+          "k:ト"
+        ]
+      },
+      {
+        "id": "kata-basic-5",
+        "items": [
+          "k:ナ",
+          "k:ニ",
+          "k:ヌ",
+          "k:ネ",
+          "k:ノ"
+        ]
+      },
+      {
+        "id": "kata-basic-6",
+        "items": [
+          "k:ハ",
+          "k:ヒ",
+          "k:フ",
+          "k:ヘ",
+          "k:ホ"
+        ]
+      },
+      {
+        "id": "kata-basic-7",
+        "items": [
+          "k:マ",
+          "k:ミ",
+          "k:ム",
+          "k:メ",
+          "k:モ"
+        ]
+      },
+      {
+        "id": "kata-basic-8",
+        "items": [
+          "k:ヤ",
+          "k:ユ",
+          "k:ヨ"
+        ]
+      },
+      {
+        "id": "kata-basic-9",
+        "items": [
+          "k:ラ",
+          "k:リ",
+          "k:ル",
+          "k:レ",
+          "k:ロ"
+        ]
+      },
+      {
+        "id": "kata-basic-10",
+        "items": [
+          "k:ワ",
+          "k:ヲ",
+          "k:ン"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kata-more",
+    "title": "Katakana voiced & combos",
+    "kind": "kana",
+    "packets": [
+      {
+        "id": "kata-more-1",
+        "items": [
+          "k:~long"
+        ]
+      },
+      {
+        "id": "kata-more-2",
+        "items": [
+          "k:ガ",
+          "k:ギ",
+          "k:グ",
+          "k:ゲ",
+          "k:ゴ"
+        ]
+      },
+      {
+        "id": "kata-more-3",
+        "items": [
+          "k:ザ",
+          "k:ジ",
+          "k:ズ",
+          "k:ゼ",
+          "k:ゾ"
+        ]
+      },
+      {
+        "id": "kata-more-4",
+        "items": [
+          "k:ダ",
+          "k:ヂ",
+          "k:ヅ",
+          "k:デ",
+          "k:ド"
+        ]
+      },
+      {
+        "id": "kata-more-5",
+        "items": [
+          "k:バ",
+          "k:ビ",
+          "k:ブ",
+          "k:ベ",
+          "k:ボ"
+        ]
+      },
+      {
+        "id": "kata-more-6",
+        "items": [
+          "k:パ",
+          "k:ピ",
+          "k:プ",
+          "k:ペ",
+          "k:ポ"
+        ]
+      },
+      {
+        "id": "kata-more-7",
+        "items": [
+          "k:キャ",
+          "k:キュ",
+          "k:キョ",
+          "k:シャ",
+          "k:シュ"
+        ]
+      },
+      {
+        "id": "kata-more-8",
+        "items": [
+          "k:ショ",
+          "k:チャ",
+          "k:チュ",
+          "k:チョ",
+          "k:ニャ"
+        ]
+      },
+      {
+        "id": "kata-more-9",
+        "items": [
+          "k:ニュ",
+          "k:ニョ",
+          "k:ヒャ",
+          "k:ヒュ",
+          "k:ヒョ"
+        ]
+      },
+      {
+        "id": "kata-more-10",
+        "items": [
+          "k:ミャ",
+          "k:ミュ",
+          "k:ミョ",
+          "k:リャ",
+          "k:リュ"
+        ]
+      },
+      {
+        "id": "kata-more-11",
+        "items": [
+          "k:リョ",
+          "k:ギャ",
+          "k:ギュ",
+          "k:ギョ",
+          "k:ジャ"
+        ]
+      },
+      {
+        "id": "kata-more-12",
+        "items": [
+          "k:ジュ",
+          "k:ジョ",
+          "k:ビャ",
+          "k:ビュ",
+          "k:ビョ"
+        ]
+      },
+      {
+        "id": "kata-more-13",
+        "items": [
+          "k:ピャ",
+          "k:ピュ",
+          "k:ピョ"
+        ]
+      }
+    ]
+  }
+]

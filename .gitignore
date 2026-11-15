@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.wrangler/
+.dev.vars
+.cache/
+public/content/
+public/strokes/
+public/fonts/
+public/audio/
+test-results/
+playwright-report/
+*.log
+.DS_Store

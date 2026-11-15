@@ -1,0 +1,704 @@
+{
+  "functionWords": [
+    "は",
+    "が",
+    "を",
+    "に",
+    "へ",
+    "で",
+    "の",
+    "も",
+    "か",
+    "です",
+    "じゃ",
+    "ありません",
+    "な"
+  ],
+  "patterns": [
+    {
+      "id": "g:wa-desu",
+      "kind": "grammar",
+      "title": "A は B です",
+      "explain": "Say \"A is B\" with A は B です. は marks the topic and is read \"wa\" here, even though it is written with the hiragana for \"ha\". です at the end makes the sentence polite, like \"is\" or \"am\".",
+      "examples": [
+        {
+          "tiles": [
+            "わたし",
+            "は",
+            "せんせい",
+            "です"
+          ],
+          "reading": "わたしはせんせいです",
+          "en": "I am a teacher.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "ここ",
+            "は",
+            "えき",
+            "です"
+          ],
+          "reading": "ここはえきです",
+          "en": "This is the station.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "おかあさん",
+            "は",
+            "せんせい",
+            "です"
+          ],
+          "reading": "おかあさんはせんせいです",
+          "en": "My mother is a teacher.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "あした",
+            "は",
+            "やすみ",
+            "です"
+          ],
+          "reading": "あしたはやすみです",
+          "en": "Tomorrow is a day off.",
+          "blank": 1
+        }
+      ],
+      "usesVocab": [
+        "v:わたし",
+        "v:せんせい",
+        "v:ここ",
+        "v:えき",
+        "v:おかあさん",
+        "v:あした",
+        "v:やすみ"
+      ]
+    },
+    {
+      "id": "g:ka",
+      "kind": "grammar",
+      "title": "Question か",
+      "explain": "Turn a sentence into a question by adding か at the end. No word order change needed, it works like a spoken question mark. Use なに (what), どこ (where) or だれ (who) where the answer would go. Remember は is read \"wa\".",
+      "examples": [
+        {
+          "tiles": [
+            "それ",
+            "は",
+            "なに",
+            "です",
+            "か"
+          ],
+          "reading": "それはなにですか",
+          "en": "What is that?",
+          "blank": 4
+        },
+        {
+          "tiles": [
+            "あなた",
+            "は",
+            "せんせい",
+            "です",
+            "か"
+          ],
+          "reading": "あなたはせんせいですか",
+          "en": "Are you a teacher?",
+          "blank": 4
+        },
+        {
+          "tiles": [
+            "ここ",
+            "は",
+            "えき",
+            "です",
+            "か"
+          ],
+          "reading": "ここはえきですか",
+          "en": "Is this the station?",
+          "blank": 4
+        },
+        {
+          "tiles": [
+            "えき",
+            "は",
+            "どこ",
+            "です",
+            "か"
+          ],
+          "reading": "えきはどこですか",
+          "en": "Where is the station?",
+          "blank": 4
+        }
+      ],
+      "usesVocab": [
+        "v:それ",
+        "v:なに",
+        "v:あなた",
+        "v:せんせい",
+        "v:ここ",
+        "v:えき",
+        "v:どこ"
+      ]
+    },
+    {
+      "id": "g:kore-sore-are",
+      "kind": "grammar",
+      "title": "これ / それ / あれ",
+      "explain": "これ means \"this\" (near me), それ means \"that\" (near you) and あれ means \"that over there\" (away from both of us). They stand on their own as the topic: これ は ほん です, \"This is a book\". は is read \"wa\".",
+      "examples": [
+        {
+          "tiles": [
+            "これ",
+            "は",
+            "ほん",
+            "です"
+          ],
+          "reading": "これはほんです",
+          "en": "This is a book.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "それ",
+            "は",
+            "かさ",
+            "です"
+          ],
+          "reading": "それはかさです",
+          "en": "That is an umbrella.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "あれ",
+            "は",
+            "やま",
+            "です"
+          ],
+          "reading": "あれはやまです",
+          "en": "That over there is a mountain.",
+          "blank": 1
+        }
+      ],
+      "usesVocab": [
+        "v:これ",
+        "v:ほん",
+        "v:それ",
+        "v:かさ",
+        "v:あれ",
+        "v:やま"
+      ]
+    },
+    {
+      "id": "g:no",
+      "kind": "grammar",
+      "title": "Possessive の",
+      "explain": "の links two nouns, like \"'s\" or \"of\" in English: わたし の ほん is \"my book\", せんせい の かさ is \"the teacher's umbrella\". The owner comes first, the thing owned comes second.",
+      "examples": [
+        {
+          "tiles": [
+            "これ",
+            "は",
+            "わたし",
+            "の",
+            "ほん",
+            "です"
+          ],
+          "reading": "これはわたしのほんです",
+          "en": "This is my book.",
+          "blank": 3
+        },
+        {
+          "tiles": [
+            "それ",
+            "は",
+            "せんせい",
+            "の",
+            "かさ",
+            "です"
+          ],
+          "reading": "それはせんせいのかさです",
+          "en": "That is the teacher's umbrella.",
+          "blank": 3
+        },
+        {
+          "tiles": [
+            "わたし",
+            "の",
+            "ねこ",
+            "です"
+          ],
+          "reading": "わたしのねこです",
+          "en": "It's my cat.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "あれ",
+            "は",
+            "にほん",
+            "の",
+            "くるま",
+            "です"
+          ],
+          "reading": "あれはにほんのくるまです",
+          "en": "That is a Japanese car.",
+          "blank": 3
+        }
+      ],
+      "usesVocab": [
+        "v:これ",
+        "v:わたし",
+        "v:ほん",
+        "v:それ",
+        "v:せんせい",
+        "v:かさ",
+        "v:ねこ",
+        "v:あれ",
+        "v:にほん",
+        "v:くるま"
+      ]
+    },
+    {
+      "id": "g:mo",
+      "kind": "grammar",
+      "title": "も (also)",
+      "explain": "も means \"also\" or \"too\". It takes the place of は: わたし は becomes わたし も, \"I too\". Put it right after the word that is \"also\" true.",
+      "examples": [
+        {
+          "tiles": [
+            "わたし",
+            "も",
+            "せんせい",
+            "です"
+          ],
+          "reading": "わたしもせんせいです",
+          "en": "I am a teacher too.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "これ",
+            "も",
+            "ほん",
+            "です"
+          ],
+          "reading": "これもほんです",
+          "en": "This is a book too.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "あした",
+            "も",
+            "やすみ",
+            "です"
+          ],
+          "reading": "あしたもやすみです",
+          "en": "Tomorrow is a day off too.",
+          "blank": 1
+        }
+      ],
+      "usesVocab": [
+        "v:わたし",
+        "v:せんせい",
+        "v:これ",
+        "v:ほん",
+        "v:あした",
+        "v:やすみ"
+      ]
+    },
+    {
+      "id": "g:ja-arimasen",
+      "kind": "grammar",
+      "title": "Negative じゃ ありません",
+      "explain": "To say \"A is not B\", swap です for じゃ ありません: わたし は せんせい じゃ ありません, \"I am not a teacher.\" は is still read \"wa\".",
+      "examples": [
+        {
+          "tiles": [
+            "わたし",
+            "は",
+            "せんせい",
+            "じゃ",
+            "ありません"
+          ],
+          "reading": "わたしはせんせいじゃありません",
+          "en": "I am not a teacher.",
+          "blank": 3
+        },
+        {
+          "tiles": [
+            "それ",
+            "は",
+            "ほん",
+            "じゃ",
+            "ありません"
+          ],
+          "reading": "それはほんじゃありません",
+          "en": "That isn't a book.",
+          "blank": 3
+        },
+        {
+          "tiles": [
+            "ここ",
+            "は",
+            "えき",
+            "じゃ",
+            "ありません"
+          ],
+          "reading": "ここはえきじゃありません",
+          "en": "This isn't the station.",
+          "blank": 3
+        }
+      ],
+      "usesVocab": [
+        "v:わたし",
+        "v:せんせい",
+        "v:それ",
+        "v:ほん",
+        "v:ここ",
+        "v:えき"
+      ]
+    },
+    {
+      "id": "g:wo-masu",
+      "kind": "grammar",
+      "title": "Object を + ます verbs",
+      "explain": "を marks the thing an action is done to, and the verb comes last: ほん を よみます, \"I read a book\". を is read \"o\". Verbs ending in ます are polite and cover both \"do\" and \"will do\".",
+      "examples": [
+        {
+          "tiles": [
+            "ほん",
+            "を",
+            "よみます"
+          ],
+          "reading": "ほんをよみます",
+          "en": "I read a book.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "みず",
+            "を",
+            "のみます"
+          ],
+          "reading": "みずをのみます",
+          "en": "I drink water.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "ごはん",
+            "を",
+            "たべます"
+          ],
+          "reading": "ごはんをたべます",
+          "en": "I eat a meal.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "やさい",
+            "を",
+            "かいます"
+          ],
+          "reading": "やさいをかいます",
+          "en": "I buy vegetables.",
+          "blank": 1
+        }
+      ],
+      "usesVocab": [
+        "v:ほん",
+        "v:よみます",
+        "v:みず",
+        "v:のみます",
+        "v:ごはん",
+        "v:たべます",
+        "v:やさい",
+        "v:かいます"
+      ]
+    },
+    {
+      "id": "g:ni-e-ikimasu",
+      "kind": "grammar",
+      "title": "Place に / へ + いきます",
+      "explain": "Mark where you are going with に or へ, then a movement verb: いきます (go), きます (come), かえります (go home). The particle へ is read \"e\", not \"he\". に and へ mean almost the same here.",
+      "examples": [
+        {
+          "tiles": [
+            "がっこう",
+            "に",
+            "いきます"
+          ],
+          "reading": "がっこうにいきます",
+          "en": "I go to school.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "うち",
+            "へ",
+            "かえります"
+          ],
+          "reading": "うちへかえります",
+          "en": "I go home.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "にほん",
+            "へ",
+            "いきます"
+          ],
+          "reading": "にほんへいきます",
+          "en": "I'm going to Japan.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "あした",
+            "えき",
+            "に",
+            "いきます"
+          ],
+          "reading": "あしたえきにいきます",
+          "en": "I'll go to the station tomorrow.",
+          "blank": 2
+        }
+      ],
+      "usesVocab": [
+        "v:がっこう",
+        "v:いきます",
+        "v:うち",
+        "v:かえります",
+        "v:にほん",
+        "v:あした",
+        "v:えき"
+      ]
+    },
+    {
+      "id": "g:de-action",
+      "kind": "grammar",
+      "title": "Place で + action",
+      "explain": "で marks the place where an action happens: うち で ほん を よみます, \"I read books at home\". Use に/へ for where you go, and で for where you do something.",
+      "examples": [
+        {
+          "tiles": [
+            "うち",
+            "で",
+            "ほん",
+            "を",
+            "よみます"
+          ],
+          "reading": "うちでほんをよみます",
+          "en": "I read books at home.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "みせ",
+            "で",
+            "やさい",
+            "を",
+            "かいます"
+          ],
+          "reading": "みせでやさいをかいます",
+          "en": "I buy vegetables at the shop.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "がっこう",
+            "で",
+            "ごはん",
+            "を",
+            "たべます"
+          ],
+          "reading": "がっこうでごはんをたべます",
+          "en": "I eat a meal at school.",
+          "blank": 1
+        }
+      ],
+      "usesVocab": [
+        "v:うち",
+        "v:ほん",
+        "v:よみます",
+        "v:みせ",
+        "v:やさい",
+        "v:かいます",
+        "v:がっこう",
+        "v:ごはん",
+        "v:たべます"
+      ]
+    },
+    {
+      "id": "g:time-ni",
+      "kind": "grammar",
+      "title": "Time に",
+      "explain": "Put に after a specific time, like a day of the week: にちようび に いきます, \"I'll go on Sunday\". Relative words such as きょう, あした and まいにち don't take に.",
+      "examples": [
+        {
+          "tiles": [
+            "にちようび",
+            "に",
+            "いきます"
+          ],
+          "reading": "にちようびにいきます",
+          "en": "I'll go on Sunday.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "きんようび",
+            "に",
+            "きます"
+          ],
+          "reading": "きんようびにきます",
+          "en": "I'll come on Friday.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "きんようび",
+            "に",
+            "ほん",
+            "を",
+            "かいます"
+          ],
+          "reading": "きんようびにほんをかいます",
+          "en": "I'll buy a book on Friday.",
+          "blank": 1
+        }
+      ],
+      "usesVocab": [
+        "v:にちようび",
+        "v:いきます",
+        "v:きんようび",
+        "v:きます",
+        "v:ほん",
+        "v:かいます"
+      ]
+    },
+    {
+      "id": "g:adjectives",
+      "kind": "grammar",
+      "title": "Adjectives before nouns",
+      "explain": "Adjectives go before the noun. い-adjectives like おおきい (big) attach directly: おおきい いえ. な-adjectives like しずか (quiet) need な in between: しずか な うち.",
+      "examples": [
+        {
+          "tiles": [
+            "おおきい",
+            "いえ",
+            "です"
+          ],
+          "reading": "おおきいいえです",
+          "en": "It's a big house."
+        },
+        {
+          "tiles": [
+            "あかい",
+            "かさ",
+            "です"
+          ],
+          "reading": "あかいかさです",
+          "en": "It's a red umbrella."
+        },
+        {
+          "tiles": [
+            "しずか",
+            "な",
+            "うち",
+            "です"
+          ],
+          "reading": "しずかなうちです",
+          "en": "It's a quiet home.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "げんき",
+            "な",
+            "いぬ",
+            "です"
+          ],
+          "reading": "げんきないぬです",
+          "en": "It's a lively dog.",
+          "blank": 1
+        }
+      ],
+      "usesVocab": [
+        "v:おおきい",
+        "v:いえ",
+        "v:あかい",
+        "v:かさ",
+        "v:しずか",
+        "v:うち",
+        "v:げんき",
+        "v:いぬ"
+      ]
+    },
+    {
+      "id": "g:arimasu-imasu",
+      "kind": "grammar",
+      "title": "あります / います",
+      "explain": "Say something exists with が + あります for things, or が + います for people and animals. Add a place with に: うち に ねこ が います, \"There's a cat at home.\" は would be read \"wa\", but here we use が.",
+      "examples": [
+        {
+          "tiles": [
+            "かさ",
+            "が",
+            "あります"
+          ],
+          "reading": "かさがあります",
+          "en": "There's an umbrella.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "いぬ",
+            "が",
+            "います"
+          ],
+          "reading": "いぬがいます",
+          "en": "There's a dog.",
+          "blank": 1
+        },
+        {
+          "tiles": [
+            "ここ",
+            "に",
+            "つくえ",
+            "が",
+            "あります"
+          ],
+          "reading": "ここにつくえがあります",
+          "en": "There's a desk here.",
+          "blank": 3
+        },
+        {
+          "tiles": [
+            "うち",
+            "に",
+            "ねこ",
+            "が",
+            "います"
+          ],
+          "reading": "うちにねこがいます",
+          "en": "There's a cat at home.",
+          "blank": 3
+        }
+      ],
+      "usesVocab": [
+        "v:かさ",
+        "v:あります",
+        "v:いぬ",
+        "v:います",
+        "v:ここ",
+        "v:つくえ",
+        "v:うち",
+        "v:ねこ"
+      ]
+    }
+  ]
+}

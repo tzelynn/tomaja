@@ -1,0 +1,143 @@
+@font-face {
+  font-family: 'Tomaja Rounded';
+  src: url('/fonts/tomaja.woff2') format('woff2');
+  font-weight: 400 600;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Tomaja Rounded';
+  src: url('/fonts/tomaja-800.woff2') format('woff2');
+  font-weight: 700 900;
+  font-display: swap;
+}
+/* Metric-matched local fallback so the swap does not shift layout. */
+@font-face {
+  font-family: 'Tomaja Fallback';
+  src: local('Hiragino Maru Gothic ProN'), local('Hiragino Sans'), local('Arial Rounded MT Bold'), local('Arial');
+  size-adjust: 100%;
+  ascent-override: 100%;
+  descent-override: 26%;
+}
+
+:root {
+  /* palette (spec §6) */
+  --tomato: #e5493a;
+  --tomato-strong: #c4372a; /* white text on this passes AA */
+  --tomato-ink: #b23124; /* tomato text on cream passes AA */
+  --tomato-soft: #fbd9d3;
+  --leaf: #4c9a5b;
+  --leaf-strong: #2f7340;
+  --leaf-soft: #dcefdf;
+  --cream: #fff8ee;
+  --cream-deep: #f8ead6;
+  --sun: #ffc94d;
+  --sun-soft: #fff0c7;
+  --ink: #3b2f2f;
+  --ink-soft: #6e5c58; /* AA on cream */
+  --white: #fffdf9;
+  --soil: #c99a6e;
+  --soil-dark: #a47650;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+
+  --radius-s: 12px;
+  --radius-m: 20px;
+  --radius-full: 999px;
+  --shadow: 0 2px 0 rgba(59, 47, 47, 0.08), 0 6px 18px rgba(59, 47, 47, 0.08);
+
+  --font: 'Tomaja Rounded', 'Tomaja Fallback', ui-rounded, 'Hiragino Maru Gothic ProN', system-ui, sans-serif;
+  --text-s: 0.875rem;
+  --text-m: 1rem;
+  --text-l: 1.25rem;
+  --text-xl: 1.6rem;
+  --specimen: clamp(96px, 32vw, 144px);
+
+  --tap: 48px;
+  --column: 480px;
+  --tabbar-h: 64px;
+  --spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  background: var(--cream);
+  color: var(--ink);
+  font-family: var(--font);
+  font-size: 16px;
+  line-height: 1.45;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  min-height: 100dvh;
+  overscroll-behavior-y: none;
+}
+
+button,
+input,
+select {
+  font: inherit;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+:focus-visible {
+  outline: 3px solid var(--sun);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+[lang='ja'] {
+  font-feature-settings: 'palt' 0;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  font-weight: 800;
+  line-height: 1.2;
+}
+
+p {
+  margin: 0;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+.muted {
+  color: var(--ink-soft);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}
